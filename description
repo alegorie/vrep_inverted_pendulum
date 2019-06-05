@@ -1,0 +1,2 @@
+To run model open VREP scene segway_big.ttt (or segway_very_big.ttt) and start "run.py".
+Then answer 'y' and here is it. Online-learning inverted pendulum is done.
